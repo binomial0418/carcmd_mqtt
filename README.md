@@ -3,5 +3,5 @@
 3 發送MQTT是使用home assistant。
 
 架構如下：
-HA --> MQTT BROKER --> esp8266 --> 發送LINE訊息
+HA --> MQTT BROKER --> esp8266 --> 發送LINE訊息<br>
                            └--->繼電器觸發汽車遙控器
